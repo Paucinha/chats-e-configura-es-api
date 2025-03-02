@@ -1,0 +1,7 @@
+POST https://{endpoint}/openai/deployments/{deployment-id}/embeddings?api-version=2024-10-21
+
+{
+ "input": [
+  "this is a test"
+ ]
+}
